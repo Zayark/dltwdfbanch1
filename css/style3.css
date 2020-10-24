@@ -1,0 +1,14 @@
+.firstdiv{
+	text-align:left;
+}
+.textdecoration{
+	text-decoration:line-through;
+}
+.textline{
+	letter-spacing:10px;
+	line-height:50px;
+}
+.textshadow{
+	font-size:50px;
+	text-shadow: 3px 3px 3px darkgreen;
+}

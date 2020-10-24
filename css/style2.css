@@ -1,0 +1,25 @@
+*{
+	cursor:pointer;
+}
+.first{
+	font-size:90px;
+	color:darkblue;
+	width:500px;
+	height:500px;
+	background:rgba(127,127,127,0.3);
+	border:30px;
+	border-style: solid;
+	margin:100px auto;
+}
+.second{1:12 PM 10/20/2020
+	font-size:90px;
+	color:darkblue;
+	width:500px;
+	height:500px;
+	border:30px;
+	border-style: solid;
+	margin:100px auto;
+	background-image:url(../img/background/h4.jpg);
+	background-repeat:repeat-y;
+	background-position: center;
+}
